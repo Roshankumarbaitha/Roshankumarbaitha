@@ -1,15 +1,17 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
+![Header](./![Header](./your-header-image-name.png))
 <h1 align="center">Hi 👋, I'm Roshan Kuamr Baitha</h1>
-<h3 align="center">love to code - code to love(backend developer)</h3>
+<h3 align="center">Love to code - code to Love(backend developer)</h3>
+
+
+
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumarbaitha&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumarbaitha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankumarbaitha" alt="roshankumarbaitha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Java Springboot Hibernet**
+
+- 👯 I am currently learning **Amazon aws,Java Springboot and Hibernate**
+
+- 💬 Ask me about **any thing ,i am happy to help**
 
 - 📫 How to reach me **roshankumarbaitha1@gmail.com**
 
@@ -28,3 +30,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshankumarbaitha&show_icons=true&locale=en" alt="roshankumarbaitha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshankumarbaitha&" alt="roshankumarbaitha" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshankumarbaitha&label=Profile%20views&color=0e75b6&style=flat" alt="roshankumarbaitha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshankumarbaitha" alt="roshankumarbaitha" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
